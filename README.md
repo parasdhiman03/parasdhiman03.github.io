@@ -1,53 +1,41 @@
 ## Education
 
-### Graphic Era University, Dehradun
-Bachelor of Technology in Computer Science (Oct 2021 - Present)
-- GPA: 9.33/10.0
+**Graphic Era University, Dehradun**  
+**Bachelor of Technology in Computer Science** (Oct 2021 - Present)  
+- GPA: **9.33/10.0**
 
-### Kendriya Vidyalaya ONGC, Dehradun
-12th, C.B.S.E (2021)
-- Percentage: 95.8 %
+**Kendriya Vidyalaya ONGC, Dehradun**  
+**12th, C.B.S.E** (2021)  
+- Percentage: **95.8 %**
 
-### Kendriya Vidyalaya OLF, Dehradun
-10th, C.B.S.E (2019)
-- Percentage: 95 %
+**Kendriya Vidyalaya OLF, Dehradun**  
+**10th, C.B.S.E** (2019)  
+- Percentage: **95 %**
 
 ## Skills
 
-<img alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" style="margin:2px;"/>
-<img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white" style="margin:2px;"/>
-<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" style="margin:2px;"/>
-<img alt="HTML5" src="https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=" style="margin:2px;"/>
-<img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="margin:2px;"/>
-<img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" style="margin:2px;"/>
-<img alt="Tailwind CSS" src="https://img.shields.io/static/v1?style=for-the-badge&message=Tailwind+CSS&color=222222&logo=Tailwind+CSS&logoColor=06B6D4&label=" style="margin:2px;"/>
-<img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" style="margin:2px;"/>
-<img alt="NextJS" src="https://img.shields.io/static/v1?style=for-the-badge&message=NextJS&color=000000&logo=Next.js&logoColor=FFFFFF&label=" style="margin:2px;"/>
-<img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" style="margin:2px;"/>
-<img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" style="margin:2px;"/>
-<img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" style="margin:2px;"/>
-<img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" style="margin:2px;"/>
+![C](https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white) ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white) ![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=) ![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java%20-%23FF0000.svg?&style=for-the-badge&logo=java&logoColor=white) ![Flutter](https://img.shields.io/badge/flutter%20-%2302569B.svg?&style=for-the-badge&logo=flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase%20-%23FFA000.svg?&style=for-the-badge&logo=firebase&logoColor=white) ![GitHub](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
+
 
 ## Projects
 
 ### Companion App- A Mental Health Tracker built using Flutter and Firebase
-[GitHub Repository](https://github.com/parasdhiman03/companion-app) | [Demo](https://yourdemo.com)
+[GitHub Repository](https://github.com/parasdhiman03/companion-app)
 
 - Successfully designed and developed a comprehensive Mental Health Companion App using Flutter and Firebase. The app aims to empower users to take charge of their mental well-being by providing valuable insights, tracking tools, and personalized support.
 
 ### PoS Tagging and N-grams Based Topic Modeling Using LDA
-[GitHub Repository](https://github.com/parasdhiman03/pos-tagging-lda) | [Demo](https://yourdemo.com)
+[GitHub Repository](https://github.com/parasdhiman03/pos-tagging-lda)
 
 - Developed an advanced Natural Language Processing (NLP) system to perform Part-of-Speech (PoS) tagging and N-grams based topic modeling using the Latent Dirichlet Allocation (LDA) algorithm. Presented the findings to a team of peers and received positive feedback on the methodology and results.
 
 ### Library Management System
-[GitHub Repository](https://github.com/parasdhiman03/library-management-system) | [Demo](https://yourdemo.com)
+[GitHub Repository](https://github.com/parasdhiman03/library-management-system)
 
 - Designed and developed a fully functional Library Management System website using HTML, CSS, and JavaScript. Successfully deployed the website, streamlining the library's operations and enhancing user satisfaction.
 
 ### Gender and Age Classification using OpenCV Deep Learning (Python)
-[GitHub Repository](https://github.com/parasdhiman03/gender-age-classification) | [Demo](https://yourdemo.com)
+[GitHub Repository](https://github.com/parasdhiman03/gender-age-classification)
 
 - Developed a computer vision system to perform Gender and Age Classification using OpenCV and Deep Learning techniques in Python. Successfully achieved high accuracy in classifying gender and age groups, demonstrating the effectiveness of the developed model.
 
