@@ -1,10 +1,3 @@
-# Paras Dhiman
-
-- **Email-id:** [dhimanparas000@gmail.com](mailto:dhimanparas000@gmail.com)
-- **Mobile No.:** 8532886370
-- **GitHub:** [parasdhiman03](https://github.com/parasdhiman03)
-- **LeetCode:** [dhimanparas000](https://leetcode.com/dhimanparas000/)
-
 ## Education
 
 ### Graphic Era University, Dehradun
