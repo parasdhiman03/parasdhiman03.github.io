@@ -1,4 +1,13 @@
+title: Vishal Rajput
+logo: "/pfp.png"
+description: >
+  <br>
+  Aspiring CSE Undergrad
+  <br>
+  <a href="https://www.linkedin.com/in/paras-dhiman-3ba729147/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:dhimanparas000@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 theme: jekyll-theme-minimal
-
-title: Paras Dhiman
-description: Aspiring CSE Undergrad
