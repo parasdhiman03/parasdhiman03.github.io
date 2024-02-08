@@ -1,12 +1,12 @@
 title: Paras Dhiman
 logo: "/pfp.png"
 description: >
-  <br>
-  <br>
-  <a href="https://www.linkedin.com/in/paras-dhiman-3ba729147/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:dhimanparas000@gmail.com">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  Welcome to my portfolio website! I'm passionate about technology and eager to make a positive impact. Connect with me on LinkedIn or shoot me an email!
+social:
+  - title: LinkedIn
+    icon: linkedin
+    url: https://www.linkedin.com/in/paras-dhiman-3ba729147/
+  - title: Gmail
+    icon: gmail
+    url: mailto:dhimanparas000@gmail.com
 theme: jekyll-theme-minimal
