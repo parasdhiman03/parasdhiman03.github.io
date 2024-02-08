@@ -20,24 +20,19 @@
 ## Projects
 
 ### Companion App- A Mental Health Tracker built using Flutter and Firebase
-[GitHub Repository](https://github.com/parasdhiman03/companion-app)
+[GitHub Repository]([https://github.com/parasdhiman03/companion-app](https://github.com/parasdhiman03/Companion-App---A-Mental-Health-Tracker-built-using-Flutter-and-Firebase))
 
 - Successfully designed and developed a comprehensive Mental Health Companion App using Flutter and Firebase. The app aims to empower users to take charge of their mental well-being by providing valuable insights, tracking tools, and personalized support.
 
 ### PoS Tagging and N-grams Based Topic Modeling Using LDA
-[GitHub Repository](https://github.com/parasdhiman03/pos-tagging-lda)
+[GitHub Repository]([https://github.com/parasdhiman03/pos-tagging-lda](https://github.com/parasdhiman03/Competitive_Intelligence-System))
 
 - Developed an advanced Natural Language Processing (NLP) system to perform Part-of-Speech (PoS) tagging and N-grams based topic modeling using the Latent Dirichlet Allocation (LDA) algorithm. Presented the findings to a team of peers and received positive feedback on the methodology and results.
 
 ### Library Management System
-[GitHub Repository](https://github.com/parasdhiman03/library-management-system)
+[GitHub Repository]([https://github.com/parasdhiman03/library-management-system](https://github.com/parasdhiman03/Library-Management-System))
 
 - Designed and developed a fully functional Library Management System website using HTML, CSS, and JavaScript. Successfully deployed the website, streamlining the library's operations and enhancing user satisfaction.
-
-### Gender and Age Classification using OpenCV Deep Learning (Python)
-[GitHub Repository](https://github.com/parasdhiman03/gender-age-classification)
-
-- Developed a computer vision system to perform Gender and Age Classification using OpenCV and Deep Learning techniques in Python. Successfully achieved high accuracy in classifying gender and age groups, demonstrating the effectiveness of the developed model.
 
 ## Positions of Responsibility
 
